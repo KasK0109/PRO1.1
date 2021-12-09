@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Connections/Connections.iml" filepath="$PROJECT_DIR$/Connections/Connections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L11/L11.iml" filepath="$PROJECT_DIR$/L11/L11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L18/L18.iml" filepath="$PROJECT_DIR$/L18/L18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L19/L19.iml" filepath="$PROJECT_DIR$/L19/L19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRO1.iml" filepath="$PROJECT_DIR$/PRO1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SemesterprøverJan2015/SemesterprøverJan2015.iml" filepath="$PROJECT_DIR$/SemesterprøverJan2015/SemesterprøverJan2015.iml" />
+    </modules>
+  </component>
+</project>
